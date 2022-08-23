@@ -1,0 +1,24 @@
+.con-imagen {
+    display: flex;
+    border-width: 2px;
+    border-right-color: black;
+}
+
+.imagen {
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.medio {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.parte {
+    border-width: 2px;
+    border-left-color: black;
+}
+
+.receta {
+    display: flex;
+}
