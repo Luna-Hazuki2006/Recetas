@@ -22,3 +22,7 @@
 .receta {
     display: flex;
 }
+
+.raro {
+    animation: trippy 10s linear infinite;
+}
